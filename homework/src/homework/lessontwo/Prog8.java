@@ -15,7 +15,12 @@ public class Prog8 {
 	        arrInt[count] = scanner.nextInt();
 	        count++;
 		 }
-		 System.out.println(Arrays.toString(arrInt));
+		 int min = arrInt[0];
+		 for(int j=0;j< arrInt.length; j++) {
+			 if(arrInt[j]<min)
+				 min = arrInt[j];
+		 }
+		 System.out.println("MIN number in passed Array ="+min);
 	}
 
 }
