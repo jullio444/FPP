@@ -11,6 +11,7 @@ public class Prog8 {
 		 Scanner scanner = new Scanner(System.in); 
 		 int[] arrInt = new int[7];
 		 int count = 0;
+		 System.out.println("Enter upto 7 numbers:");
 		 while(count<7) {
 	        arrInt[count] = scanner.nextInt();
 	        count++;
