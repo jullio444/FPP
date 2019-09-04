@@ -15,5 +15,8 @@ public class Prog4 {
 		}
 		System.out.println(new String(arrOfStr));
 	}
-
+	/*
+	 * Sample input: Uganda
+	 * Reversed word: adnagU
+	 */
 }

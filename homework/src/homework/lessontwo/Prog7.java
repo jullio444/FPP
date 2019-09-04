@@ -12,5 +12,20 @@ public class Prog7 {
 		}
 		System.out.println("Number of Arguments that start with A = " + count);
 	}
-
+	/*
+	 * Sample passed console arguments: 
+	 * Uganda is the pearl of Africa and a Ugandan is loving.
+	 * 6
+	 * 2
+	 * 3
+	 * 5
+	 * 2
+	 * 6
+	 * 3
+	 * 1
+	 * 7
+	 * 2
+	 * 7
+	 * Number of Arguments that start with A = 3
+	 */
 }

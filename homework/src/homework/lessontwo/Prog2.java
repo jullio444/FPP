@@ -7,6 +7,12 @@ public class Prog2 {
 		float a = 1.27f, b = 3.881f, c = 9.6f;
 		System.out.println("SUM CASTED TO INT=" + (int) (a + b + c));
 		System.out.println("SUM CASTED TO INT BY ROUNDING=" + (Math.round(a + b + c)));
+		/*
+		 * Sample Output
+		 *  
+		 * SUM CASTED TO INT=14
+		 * SUM CASTED TO INT BY ROUNDING=15
+		 */
 	}
 
 }

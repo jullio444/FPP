@@ -1,6 +1,5 @@
 package homework.lessontwo;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Prog8 {
@@ -23,5 +22,8 @@ public class Prog8 {
 		}
 		System.out.println("MIN number in passed Array =" + min);
 	}
-
+	/*
+	 * Sample Input: [-23, 90, 23, 12, -78, -5, 25]
+	 * Sample Output: MIN number in passed Array =-78 
+	 */
 }

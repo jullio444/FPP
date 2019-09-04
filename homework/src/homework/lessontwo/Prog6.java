@@ -31,5 +31,8 @@ public class Prog6 {
 		System.out.println(Arrays.toString(strCopy));
 
 	}
-
+	/*
+	 * Sample Input ["horse", "dog", "cat", "horse", "dog", "monkey", "gorilla"]
+	 * Sample Output [horse, dog, cat, monkey, gorilla]
+	 */
 }

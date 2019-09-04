@@ -21,5 +21,16 @@ public class Prog3 {
 		for (String s : records.split("\\:")) {
 			System.out.println(s.substring(0, 4) + "\n");
 		}
+		/*
+		 * Sample Output 
+		 * 
+		 * 231A
+		 * 
+		 * 113D
+		 * 
+		 * 521W
+		 * 
+		 * 440Q
+		 */
 	}
 }
