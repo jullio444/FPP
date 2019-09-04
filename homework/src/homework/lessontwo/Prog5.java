@@ -23,7 +23,7 @@ public class Prog5 {
 
 			}
 			System.out.println();
-		} 
+		}
 	}
 
 }

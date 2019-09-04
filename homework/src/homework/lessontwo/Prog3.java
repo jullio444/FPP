@@ -19,7 +19,7 @@ public class Prog3 {
 		// Implement the code
 
 		for (String s : records.split("\\:")) {
-			System.out.println(s.substring(0,4)+"\n");
+			System.out.println(s.substring(0, 4) + "\n");
 		}
 	}
 }
