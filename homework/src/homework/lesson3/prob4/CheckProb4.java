@@ -34,8 +34,10 @@ public class CheckProb4 {
 		default:
 			System.out.println("Invalid inpput");
 		}
-
+		
 	}
+	
+	
 	/*
 	 * Sample Output
 	 * Enter the Width:
