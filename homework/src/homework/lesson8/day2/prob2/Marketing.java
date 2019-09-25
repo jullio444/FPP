@@ -80,3 +80,18 @@ public class Marketing {
 		greater.forEach(System.out::println);
 	}
 }
+/*
+ * OUTPPUT
+ * Sorted by Sales amount
+ * [Kevin Heart, Apple, 800.0]
+ * [Mike Luda, Dell, 1200.0]
+ * [King Saha, Dell, 1600.0]
+ * [Jullio Jymez, Apple, 7500.0]
+ *
+ * Sorted by Name with the criteria of the employee who achieves more than $1000
+ * [Jullio Jymez, Apple, 7500.0]
+ * [King Saha, Dell, 1600.0]
+ * [Mike Luda, Dell, 1200.0]
+ *
+ * 
+*/
